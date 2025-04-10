@@ -1,0 +1,30 @@
+body{
+   background-image: url(../images/mocktail.webp);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: 2000px;
+}
+#i1{
+    height: 150px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+    }
+    
+    #i2{
+    height: 135px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+    }
+    
+    #i3{
+    height:140px;
+    float: left;
+    margin: 0px 20px 0px 0px;
+    }
+    
+    #i4{
+    height: 155px;
+    float: left;
+    margin-right: 20px;
+    }
